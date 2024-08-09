@@ -1,0 +1,15 @@
+{
+  "originHash" : "c95ecf994f70f5fa9485692183d6b33226fb4c0f17baf2c1b381c504fa6395cf",
+  "pins" : [
+    {
+      "identity" : "foundationextensions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ahmed-yamany/FoundationExtensions",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b1a97680625249f67e26ac91c35c4066900a1c13"
+      }
+    }
+  ],
+  "version" : 3
+}
